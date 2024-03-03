@@ -4,6 +4,6 @@
 
 - Please follow the steps [here](https://www.selenium.dev/selenium-ide/) to install Selenium IDE.
 - Clone / Download this repository.
-- Open the Selenium IDE Extension in your preffered browser.
+- Open the Selenium IDE Extension in your prefered browser.
 - Click open an existing project and navigate to the downloaded repository, clicking the SIDE file.
 - Run the SIDE test using the play button on the top left side.
